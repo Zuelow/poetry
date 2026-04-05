@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "kasperzuelow-c7f7b"
+  },
+  "targets": {
+    "kasperzuelow-c7f7b": {
+      "hosting": {
+        "poetry": ["poetry-kasperzuelow"]
+      }
+    }
+  }
+}
